@@ -5,3 +5,7 @@
 ```
 System.out.println("Hola");
 ```
+
+- [x] Esto es requerido
+- [x] No es requerido
+- [ ] No completado
